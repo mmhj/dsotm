@@ -38,13 +38,15 @@ It works really well with this colour scheme, but it works well with anything re
 
 I won't go into detail for adding or changing fonts on various OS', but if you want to play with the Sublime Text font you can find it here:
 
-* Navigate to `Preferences -> Settings -> — User` on Windows, `Sublime Text -> Preferences -> Settings -> — User` on macOS, and change the `"font_face"` setting.
-* For example I changed the setting to `"font_face": "Source Code Pro",`.
+* Navigate to `Preferences -> Settings -> — User` on Windows, `Sublime Text -> Preferences -> Settings -> — User` on macOS, and change the `"font_face"` setting
+* For example I changed the setting to `"font_face": "Source Code Pro",`
 
 ## Acknowledgements
 
-* [tyre](https://github.com/tyre) for the [base16-eighties-dark (Atom)](https://github.com/tyre/base16-eighties-dark) colour scheme.
-* [pgaspar](https://github.com/pgaspar) whose configuration & README for the [base16-eighties-dark](https://github.com/pgaspar/base16-eighties-dark) colour scheme served as the base for the colour scheme, and this README.
+
+* [Heroku](https://tmtheme-editor.herokuapp.com/) for the great editor
+* [tyre](https://github.com/tyre) for the [base16-eighties-dark (Atom)](https://github.com/tyre/base16-eighties-dark) colour scheme
+* [pgaspar](https://github.com/pgaspar) whose configuration & README for the [base16-eighties-dark](https://github.com/pgaspar/base16-eighties-dark) colour scheme served as the base for the colour scheme, and this README
 
 
 ## License
