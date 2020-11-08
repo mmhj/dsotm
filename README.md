@@ -51,4 +51,4 @@ I won't go into detail for adding or changing fonts on various OS', but if you w
 
 ## License
 
-The code is open source and available under the [MIT License](LICENSE.md).
+The code is open source and available under the [MIT License](https://github.com/mmhj/eighties_dsotm/blob/main/LICENSE).
