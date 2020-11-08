@@ -5,8 +5,6 @@ This is a colour scheme for [Sublime Text 3](https://sublimetext.com) based on [
 This colour scheme was modified with Python in mind, it focuses on a pastel colour palette with an old school feel.
 I use it combined with [Material Theme](https://github.com/equinusocio/material-theme).
 
-* The colour scheme for [Sublime Text 3](https://sublimetext.com) is a modified version of [pgaspar's base16-eighties-dark](https://github.com/pgaspar/base16-eighties-dark) colour scheme.
-
 
 ### 80's Dark Side of The Moon in Sublime Text 3
 
