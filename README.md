@@ -11,7 +11,7 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 ![The colour scheme in Sublime Text 3](https://github.com/mmhj/eighties_dsotm/blob/main/img/eighties_dsotm_subl.png)
 
 
-## Instructions for Sublime Text installation:
+## Instructions for installation:
 
 ### Windows
 
@@ -42,7 +42,6 @@ I won't go into detail for adding or changing fonts on various OS', but if you w
 * For example I changed the setting to `"font_face": "Source Code Pro",`
 
 ## Acknowledgements
-
 
 * [Heroku](https://tmtheme-editor.herokuapp.com/) for the great editor
 * [tyre](https://github.com/tyre) for the [base16-eighties-dark (Atom)](https://github.com/tyre/base16-eighties-dark) colour scheme
