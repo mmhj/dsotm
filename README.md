@@ -21,6 +21,7 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 * Open Sublime Text 3, and navigate to `Preferences -> Browse Packages`.
 * Move the `eighties_dsotm.tmTheme` file into the `Packages` folder.
 * Navigate to `Preferences -> Settings -> — User` and change the `"color_scheme"` setting to `"color_scheme": "Packages/eighties_dsotm.tmTheme",`.
+* Alternatively, you can also choose to save the [`eighties_dsotm.tmTheme`](https://github.com/mmhj/eighties_dsotm/master/eighties_dsotm.tmTheme) file in other folders, just remember to update the `"color_scheme": "Packages/eighties_dsotm.tmTheme",` setting to reflect the path.
 
 
 ### macOS
