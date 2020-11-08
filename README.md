@@ -10,7 +10,7 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 
 ### 80's Dark Side of The Moon in Sublime Text 3
 
-![The colour scheme in Sublime Text 3](https://raw.githubusercontent.com/mmhj/eighties_dsotm/master/img/eighties_dsotm_subl.png)
+![The colour scheme in Sublime Text 3](https://github.com/mmhj/eighties_dsotm/blob/main/img/eighties_dsotm_subl.png)
 
 
 ## Instructions for Sublime Text installation:
