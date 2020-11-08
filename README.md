@@ -1,4 +1,4 @@
-# 80's Dark Side of The Moon Theme 🌑
+# 80's Dark Side of The Moon 🌑
 
 This is a colour scheme for [Sublime Text 3](https://sublimetext.com) based on [pgaspar's adaptation](https://github.com/pgaspar/base16-eighties-dark) of [tyre's Atom theme](https://github.com/tyre/base16-eighties-dark).
 
