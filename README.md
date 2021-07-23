@@ -30,8 +30,8 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 An installation script is provided with this repository.
 
 ```console
-$ mkdir /tmp/dsotm && curl -L https://api.github.com/repos/mmhj/dsotm/tarball/master | tar xzf - --directory=/tmp/dsotm --strip=1
-$ ( cd /tmp/dsotm && sh install.sh )
+git clone https://github.com/mmhj/dsotm /tmp/dsotm
+sh /tmp/dsotm/install.sh
 ```
 
 To enable the color scheme:
