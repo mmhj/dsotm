@@ -39,7 +39,7 @@ Navigate to Preferences -> Settings -> — User
 and change the "color_scheme" setting to "color_scheme": "Packages/dsotm.tmTheme"
 
 
-### Manual
+#### Manual
 
 * Save the [`dsotm.tmTheme`](https://github.com/mmhj/dsotm/blob/main/tmTheme/dsotm.tmTheme) file locally
 * Open [Sublime Text 3](https://sublimetext.com), and navigate to `Sublime Text -> Preferences -> Browse Packages...`
