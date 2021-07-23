@@ -22,18 +22,22 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 * Alternatively, you can also choose to save the [`dsotm.tmTheme`](https://github.com/mmhj/eighties_dsotm/blob/main/tmTheme/dsotm.tmTheme) file in other folders, just remember to update the `"color_scheme": "Packages/dsotm.tmTheme",` setting to reflect the path
 
 
+
 ### macOS
 
-### Installation script
+#### Installation script
+
+An installation script is provided with this repository.
 
 ```console
-mkdir /tmp/dsotm && curl -L https://api.github.com/repos/mmhj/dsotm/tarball/master | tar xzf - --directory=/tmp/dsotm --strip=1
-( cd /tmp/dsotm && sh install.sh )
+$ mkdir /tmp/dsotm && curl -L https://api.github.com/repos/mmhj/dsotm/tarball/master | tar xzf - --directory=/tmp/dsotm --strip=1
+$ ( cd /tmp/dsotm && sh install.sh )
 ```
 
 To enable the color scheme:
 Navigate to Preferences -> Settings -> — User 
 and change the "color_scheme" setting to "color_scheme": "Packages/dsotm.tmTheme"
+
 
 ### Manual
 
