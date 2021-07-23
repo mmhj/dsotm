@@ -24,6 +24,17 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 
 ### macOS
 
+### Installation script
+
+`mkdir /tmp/dsotm && curl -L https://api.github.com/repos/mmhj/dsotm/tarball/master | tar xzf - --directory=/tmp/dsotm --strip=1
+( cd /tmp/dsotm && sh install.sh )`
+
+To enable the color scheme:
+Navigate to Preferences -> Settings -> — User 
+and change the "color_scheme" setting to "color_scheme": "Packages/dsotm.tmTheme"
+
+### Manual
+
 * Save the [`dsotm.tmTheme`](https://github.com/mmhj/dsotm/blob/main/tmTheme/dsotm.tmTheme) file locally
 * Open [Sublime Text 3](https://sublimetext.com), and navigate to `Sublime Text -> Preferences -> Browse Packages...`
 * Move the `dsotm.tmTheme` file into the `Packages` folder
