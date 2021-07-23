@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Installing Dark Side of the Moon theme for Sublime Text \n'
+echo '\n Installing Dark Side of the Moon theme for Sublime Text \n'
 
 subl_package_dir="${XDG_DATA_HOME:-$HOME/Library/Application Support/Sublime Text/Packages}"
 
