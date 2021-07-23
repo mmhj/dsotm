@@ -5,7 +5,7 @@ echo 'Installing Dark Side of the Moon theme for Sublime Text \n'
 subl_package_dir="${XDG_DATA_HOME:-$HOME/Library/Application Support/Sublime Text/Packages}"
 
 echo 'Moving the theme into Sublime Text packages \n'
-cd /tmp/dsotm && mv -t -i "$subl_package_dir" tmTheme/dsotm.tmTheme
+cd /tmp/dsotm && mv -t -u "$subl_package_dir" tmTheme/dsotm.tmTheme
 
 echo 'Installation complete! \n'
 
