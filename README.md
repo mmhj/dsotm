@@ -1,14 +1,14 @@
 # Dark Side of The Moon 🌑
 
-This is a colour scheme for [Sublime Text 3](https://sublimetext.com) based on [pgaspar's adaptation](https://github.com/pgaspar/base16-eighties-dark) of [tyre's Atom theme](https://github.com/tyre/base16-eighties-dark).
+This is a colour scheme for [Sublime Text](https://sublimetext.com) based on [pgaspar's adaptation](https://github.com/pgaspar/base16-eighties-dark) of [tyre's Atom theme](https://github.com/tyre/base16-eighties-dark).
 
 This colour scheme was modified with Python in mind, it focuses on a pastel colour palette with an old school feel.
 I use it combined with [Material Theme](https://github.com/equinusocio/material-theme).
 
 
-### Dark Side of The Moon in Sublime Text 3
+### Dark Side of The Moon in Sublime Text
 
-![The colour scheme in Sublime Text 3](https://github.com/mmhj/dsotm/blob/main/img/dsotm_subl.png)
+![The colour scheme in Sublime Text](https://github.com/mmhj/dsotm/blob/main/img/dsotm_subl.png)
 
 
 ## Instructions for installation:
@@ -32,7 +32,7 @@ and change the "color_scheme" setting to "color_scheme": "Packages/dsotm.tmTheme
 #### Manual
 
 * Save the [`dsotm.tmTheme`](https://github.com/mmhj/dsotm/blob/main/tmTheme/dsotm.tmTheme) file locally
-* Open [Sublime Text 3](https://sublimetext.com), and navigate to `Sublime Text -> Preferences -> Browse Packages...`
+* Open [Sublime Text](https://sublimetext.com), and navigate to `Sublime Text -> Preferences -> Browse Packages...`
 * Move the `dsotm.tmTheme` file into the `Packages` folder
 * Navigate to `Sublime Text -> Preferences -> Settings -> — User` and change the `"color_scheme"` setting to `"color_scheme": "Packages/dsotm.tmTheme",`
 * Alternatively, you can also choose to save the [`dsotm.tmTheme`](https://github.com/mmhj/dsotm/blob/main/tmTheme/dsotm.tmTheme) file in other folders, just remember to update the `"color_scheme": "Packages/dsotm.tmTheme",` setting to reflect the path
@@ -52,7 +52,7 @@ Use [gitforwindows](gitforwindows.org) to checkout the repository and run the in
 #### Manual
 
 * Save the [`dsotm.tmTheme`](https://github.com/mmhj/dsotm/blob/main/tmTheme/dsotm.tmTheme) file locally
-* Open [Sublime Text 3](https://sublimetext.com), and navigate to `Preferences -> Browse Packages`
+* Open [Sublime Text](https://sublimetext.com), and navigate to `Preferences -> Browse Packages`
 * Move the `dsotm.tmTheme` file into the `Packages` folder
 * Navigate to `Preferences -> Settings -> — User` and change the `"color_scheme"` setting to `"color_scheme": "Packages/dsotm.tmTheme",`
 * Alternatively, you can also choose to save the [`dsotm.tmTheme`](https://github.com/mmhj/eighties_dsotm/blob/main/tmTheme/dsotm.tmTheme) file in other folders, just remember to update the `"color_scheme": "Packages/dsotm.tmTheme",` setting to reflect the path
@@ -65,8 +65,14 @@ It works really well with this colour scheme, but it works well with anything re
 
 I won't go into detail for adding or changing fonts on various OS', but if you want to play with the Sublime Text font you can find it here:
 
-* Navigate to `Preferences -> Settings -> — User` on Windows, `Sublime Text -> Preferences -> Settings -> — User` on macOS, and change the `"font_face"` setting
-* For example I changed the setting to `"font_face": "Source Code Pro",`
+* Windows: 
+* Navigate to `Preferences -> Settings -> — User` and change the `"font_face"` setting
+
+* macOS
+* Navigate to `Sublime Text -> Preferences -> Settings -> — User` and change the `"font_face"` setting
+
+For example I changed the setting to `"font_face": "Source Code Pro",`
+
 
 ## Acknowledgements
 
