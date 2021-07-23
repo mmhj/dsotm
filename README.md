@@ -26,8 +26,10 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 
 ### Installation script
 
-`mkdir /tmp/dsotm && curl -L https://api.github.com/repos/mmhj/dsotm/tarball/master | tar xzf - --directory=/tmp/dsotm --strip=1
-( cd /tmp/dsotm && sh install.sh )`
+```console
+mkdir /tmp/dsotm && curl -L https://api.github.com/repos/mmhj/dsotm/tarball/master | tar xzf - --directory=/tmp/dsotm --strip=1
+( cd /tmp/dsotm && sh install.sh )
+```
 
 To enable the color scheme:
 Navigate to Preferences -> Settings -> — User 
