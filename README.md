@@ -17,7 +17,8 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 
 #### Installation script
 
-An installation script is provided with this repository, to install the theme simply copy this commands below into your terminal:
+I have made an installation script for this repository, in order to make it simple to install the color scheme. 
+Simply copy the commands listed below into your terminal:
 
 ```console
 git clone https://github.com/mmhj/dsotm /tmp/dsotm
@@ -63,12 +64,12 @@ Use [gitforwindows](gitforwindows.org) to checkout the repository and run the in
 I use the [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) font in Sublime Text.
 It works really well with this colour scheme, but it works well with anything really.
 
-I won't go into detail for adding or changing fonts on various OS', but if you want to play with the Sublime Text font you can find it here:
+I won't go into great detail for adding or changing fonts on various OS', but if you want to play with the Sublime Text font you can find it here:
 
 * Windows: 
 * Navigate to `Preferences -> Settings -> — User` and change the `"font_face"` setting
 
-* macOS
+* macOS:
 * Navigate to `Sublime Text -> Preferences -> Settings -> — User` and change the `"font_face"` setting
 
 For example I changed the setting to `"font_face": "Source Code Pro",`
