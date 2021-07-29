@@ -8,7 +8,7 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 
 ### Dark Side of The Moon in Sublime Text
 
-![The colour scheme in Sublime Text](https://github.com/mmhj/dsotm/blob/main/img/dsotm_subl.png)
+![The colour scheme in Sublime Text](https://github.com/mmhj/dsotm/blob/master/img/dsotm_subl.png)
 
 
 ## Instructions for installation:
