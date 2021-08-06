@@ -17,7 +17,7 @@ I use it combined with [Material Theme](https://github.com/equinusocio/material-
 
 #### Installation script
 
-I have made an installation script for this repository, in order to make it simple to install the color scheme. 
+I have made an installation script for this repository, in order to make it simple to install the colour scheme. 
 Simply copy the commands listed below into your terminal:
 
 ```console
@@ -27,7 +27,7 @@ sh /tmp/dsotm/install.sh
 
 To enable the color scheme:
 Navigate to Preferences -> Settings -> — User 
-and change the "color_scheme" setting to "color_scheme": "Packages/dsotm.tmTheme"
+and change the `"color_scheme"` setting to `"color_scheme": "Packages/dsotm.tmTheme"`
 
 
 #### Manual
