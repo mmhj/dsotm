@@ -66,10 +66,10 @@ It works really well with this colour scheme, but it works well with anything re
 
 I won't go into great detail for adding or changing fonts on various OS', but if you want to play with the Sublime Text font you can find it here:
 
-* Windows: 
+Windows: 
 * Navigate to `Preferences -> Settings -> — User` and change the `"font_face"` setting
 
-* macOS:
+macOS:
 * Navigate to `Sublime Text -> Preferences -> Settings -> — User` and change the `"font_face"` setting
 
 For example I changed the setting to `"font_face": "Source Code Pro",`
