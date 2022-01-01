@@ -72,7 +72,7 @@ Windows:
 macOS:
 * Navigate to `Sublime Text -> Preferences -> Settings -> — User` and change the `"font_face"` setting
 
-For example I changed the setting to `"font_face": "Source Code Pro",`
+For example I changed the setting to `"font_face": "Source Code Pro",`.
 
 
 ## Acknowledgements
